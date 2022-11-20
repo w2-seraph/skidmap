@@ -1,7 +1,7 @@
 cat ak-vgull.ans
 echo "[+] Initializing tmux panes..."
 
-result=`ps aux | grep -i "tomcat" | grep -v "grep" | wc -l`
+result=`ps aux | grep -i "sqlmap" | grep -v "grep" | wc -l`
 if [ $result -ge 1 ]
    then
         echo "[~] tmux is still running pls kill it"
