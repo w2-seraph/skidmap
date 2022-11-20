@@ -9,3 +9,7 @@ Usage
 3. Edit pushdorks.sh accordingly (remote server ip and user)
 4. Generate dorks with provided tools
 4. Run skidmap.sh
+
+Explanation
+
+Acts as URL scraping C2 to a remote sqlmap installation, sends sqlmap collected urls and deals with starting/stopping it. The idea was full automation. (granted enough dorks are supplied)
