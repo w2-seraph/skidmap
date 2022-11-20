@@ -1,0 +1,5 @@
+1.Edit keyword_init.txt with base words
+2.Run keyword_prop.py
+3.Run dork_gen_static.py
+
+
