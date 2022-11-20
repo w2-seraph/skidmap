@@ -12,4 +12,4 @@ Usage
 
 Explanation
 
-Acts as URL scraping C2 to a remote sqlmap installation, sends sqlmap collected urls and deals with starting/stopping it. The idea was full automation. (granted enough dorks are supplied)
+  Acts as URL scraping C2 to a remote sqlmap installation, sends sqlmap collected urls and deals with starting/stopping it. The idea was full automation. (granted enough dorks are supplied)
